@@ -1,36 +1,10 @@
-venv
-.vscode
-proj/.vscode
-proj/proj/__pycache__
-proj/db.sqlite3
-
-__pycache__ /
-
-# Distribuição / embalagem
-.Python
-
-# Coisas do Django:
-* .log
-local_settings.py
+*.pyc
+*~
+__pycache__
+myvenv
 db.sqlite3
-
-# Ambientes
-.banana
-.env
-.venv
-env /
-venv /
-ENV /
-env/
+/static
+.DS_Store
 env
 venv
-
-documentação do # mkdocs
-/ site
-
-# mypy
-.mypy_cache /
-
-# Ide
-.vscode
-.idéia
+env/
